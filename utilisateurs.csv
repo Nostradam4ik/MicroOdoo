@@ -1,0 +1,3 @@
+nom;prenom;numero_utilisateur;login;email;adresse;droits
+Dupont;Jean;1001;jean.dupont@iutcv.fr;jean.dupont@iutcv.fr;"""adresse inconnue""";Administration
+Martin;Sophie;1002;sophie.martin@iutcv.fr;sophie.martin@iutcv.fr;"""adresse inconnue""";Ventes
